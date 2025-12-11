@@ -8,7 +8,7 @@ namespace Tyuiu.FendelNS.Sprint3.Task2.V4
             DataService ds = new DataService();
             int startValue = 1;
             int stopValue = 9;
-            Console.Title = "Спринт #2 | Выполнил: Фендель  Н.С. | СМАРТБ-24-1";
+            Console.Title = "Спринт #2 | Выполнил: Фендель  Н.С. | СМАРТБ-24-1";       
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
