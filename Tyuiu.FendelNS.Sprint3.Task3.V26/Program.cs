@@ -13,7 +13,7 @@ namespace Tyuiu.FendelNS.Sprint3.Task3.V26
             Console.WriteLine("* Тема: Оператор цикла foreach                                            *");
             Console.WriteLine("* Задание #3                                                              *");
             Console.WriteLine("* Вариант #26                                                             *");
-            Console.WriteLine("* Выполнил: Фендель Николай  Сергеевич | СМАРТБ-24-1                       *");
+            Console.WriteLine("* Выполнил: Фендель Николай  Сергеевич | СМАРТБ-24-1                      *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Используя цикл foreach подсчитать количество букв “e” в строке:         *");
