@@ -7,7 +7,7 @@ namespace Tyuiu.FendelNS.Sprint3.Task4.V19
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнил: Фендель Н.С. | СМАРТБ-24-1";
+            Console.Title = "Спринт #3 | Выполнил: Фендель Н.С. | СМАРТБ-24-1";            
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема:  Использование операторов continue и break в циклах               *");
