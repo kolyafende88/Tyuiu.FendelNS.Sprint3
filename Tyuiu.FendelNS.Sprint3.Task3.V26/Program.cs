@@ -7,7 +7,7 @@ namespace Tyuiu.FendelNS.Sprint3.Task3.V26
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #3 | Выполнил: Фендель Н. С. | СМАРТБ-24-1";
+            Console.Title = "Спринт #3 | Выполнил: Фендель Н. С. | СМАРТБ-24-1";                   
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Оператор цикла foreach                                            *");
