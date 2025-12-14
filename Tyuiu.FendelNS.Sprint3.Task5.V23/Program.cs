@@ -6,7 +6,7 @@ namespace Tyuiu.FendelNS.Sprint3.Task5.V23
         static void Main(string[] args)
         {
             DataService ds = new DataService();
-            Console.Title = "Спринт #3 | Выполнил: Фендель Н. С. | СМАРТБ-24-1";
+            Console.Title = "Спринт #3 | Выполнил: Фендель Н. С. | СМАРТБ-24-1";                     
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #3                                                               *");
             Console.WriteLine("* Тема: Вложенные циклы                                                   *");
